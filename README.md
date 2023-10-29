@@ -1,2 +1,2 @@
-# Scientific-Computing-For-Finance
-lab works
+# Quant Method
+dPoblem Solution
