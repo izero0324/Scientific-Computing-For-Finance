@@ -1,2 +1,2 @@
-# Scientific-Computing-For-Finance
-lab works
+# Quantitative-Method  
+Problem Sheet Solution
