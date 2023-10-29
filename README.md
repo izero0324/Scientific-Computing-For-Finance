@@ -1,2 +1,2 @@
 # Quant Method
-dPoblem Solution
+Problem Solution
